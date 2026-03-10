@@ -1,0 +1,10 @@
+{
+  "appId": "com.apextracker.app",
+  "appName": "Apex - Fitness tracker",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
